@@ -40,7 +40,7 @@
 
 ### Exercises
 
-- [Windy Gridworld Playground](Windy Gridworld Playground.ipynb)
+- [Windy Gridworld Playground](Windy%20Gridworld%20Playground.ipynb)
 - Implement SARSA
   - [Exercise](SARSA.ipynb)
   - [Solution](SARSA%20Solution.ipynb)
