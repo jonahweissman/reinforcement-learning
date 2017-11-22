@@ -43,8 +43,8 @@
 - [Windy Gridworld Playground](Windy Gridworld Playground.ipynb)
 - Implement SARSA
   - [Exercise](SARSA.ipynb)
-  - [Solution](SARSA Solution.ipynb)
-- [Cliff Environment Playground](Cliff Environment Playground.ipynb)
+  - [Solution](SARSA%20Solution.ipynb)
+- [Cliff Environment Playground](Cliff%20Environment%20Playground.ipynb)
 - Implement Q-Learning in Python
   - [Exercise](Q-Learning.ipynb)
-  - [Solution](Q-Learning Solution.ipynb)
+  - [Solution](Q-Learning%20Solution.ipynb)
